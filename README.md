@@ -1,4 +1,4 @@
 # GitHub-demo
 This is my first Git Repo.
 <br>
-Author - Akshay Pandya
+Author - Akshay Pandya (QA Engineer)
